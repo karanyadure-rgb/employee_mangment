@@ -1,0 +1,16 @@
+[
+    {
+        "id": "E001",
+        "name": "Jay Sankar",
+        "department": "Development",
+        "salary": 1200000.0,
+        "position": "Manger"
+    },
+    {
+        "id": "E002",
+        "name": "Karan",
+        "department": "AI ENGINEER",
+        "salary": 4000000.0,
+        "position": "LEADER"
+    }
+]
